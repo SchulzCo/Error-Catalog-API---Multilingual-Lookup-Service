@@ -1,0 +1,1 @@
+# Error Catalog API - Multilingual Lookup Service
